@@ -1,0 +1,10 @@
+{
+  "gen_1": [
+    "REASONING: Exploring the grid systematically.\nACTION: east",
+    "REASONING: Exploring the grid systematically.\nACTION: west",
+    "REASONING: Exploring the grid systematically.\nACTION: west"
+  ],
+  "gen_2": [
+    "REASONING: Exploring the grid systematically.\nACTION: south"
+  ]
+}

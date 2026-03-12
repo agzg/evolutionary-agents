@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "pomdp-door-agents"
+version = "0.1.0"
+description = "Multi-Agent POMDP Door Navigation with Generational Prior Transfer"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.39.0",
+    "python-dotenv>=1.0.0",
+    "matplotlib>=3.7.0",
+]
+
+[project.optional-dependencies]
+analysis = [
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+]
