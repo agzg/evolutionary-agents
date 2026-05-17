@@ -1,6 +1,3 @@
-# Because Mom Said So: Priors in Evolutionary Agents
-**COSC 89.34/189 Final Project** by {promita.rahee.sikder,ali.azam}.28@dartmouth.edu
-
 ![Cover](images/cover.png)
 
 ## Usage
